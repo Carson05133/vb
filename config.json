@@ -1,0 +1,8 @@
+{
+    "key": "TEM8S2-2ET83-CGKP1-DPSI2-EPZO1",
+    "threads": 1000000,
+    "advanced": {
+        "debug": true,
+        "count_per_id": 900
+    }
+}
